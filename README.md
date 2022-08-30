@@ -1,5 +1,4 @@
-Check the live website here :- 
-https://engageteamsclone.herokuapp.com/
+
 
 Steps to run the project on local host:
 1) run `npm install` in the main directory to get dependencies for server side
